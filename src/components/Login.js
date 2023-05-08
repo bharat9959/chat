@@ -25,9 +25,12 @@ function Login() {
       <Form.Group className="mb-3" controlId="formBasicCheckbox">
         <Form.Check type="checkbox" label="Check me out" />
       </Form.Group>
+      <div className='text-center'>
       <Button variant="primary" type="submit">
-        bharat 2
+       Login
       </Button>
+      </div>
+      
     </Form>
             </Col>
         </Row>
